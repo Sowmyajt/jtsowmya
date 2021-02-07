@@ -286,7 +286,7 @@ section .title::after{
     transform: scale(1.05);
 }
 .projects .serv-content .card i{
-    font-size: 2vw;
+    font-size: 4vw;
     color: saddlebrown;
     transition: color 0.3s ease;
 }
@@ -294,7 +294,7 @@ section .title::after{
     color: #fff;
 }
 .projects .serv-content .card .text{
-    font-size: 2vw;
+    font-size: 4vw;
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
